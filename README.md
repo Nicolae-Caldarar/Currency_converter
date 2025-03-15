@@ -1,6 +1,7 @@
 # Currency-Convertor-Proiect-Python
 Tema proiectului:
 CONVERTOR DE MONEDE
+
 Tip de proiect:
 Pentru realizarea acestui proiect am creat o interfata GUI cu ajutorul modului Tkinter.
 
