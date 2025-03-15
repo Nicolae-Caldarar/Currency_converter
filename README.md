@@ -1,4 +1,4 @@
-# Currency-Converter-Proiect-Python
+# Currency-Converter-Python
 Tema proiectului:
 CONVERTOR DE MONEDE
 
