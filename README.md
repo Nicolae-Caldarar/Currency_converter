@@ -20,8 +20,8 @@ Cu ajutorul Entry-ului in care se introduce suma convertita si a meniurilor drop
 Butonul “Convert” realizeaza conversia prin apelarea functiei ‘conversion_fct’ care la randul ei apeleaza functia ‘conversion’ din clasa “CurrencyConverter”. Acest lucru se realizeaza prin apasarea butonului. Rezultatul este introdus intru-ul Label si afisat pe ecran.
 
 Repartizarea sarcinilor de lucru:
-Nita Razvan George: Design al interfetei (culori, fonturi, aranjarea in fereastra etc.)
-Caldarar Nicolae: Scheletul interfetei (adaugarea butoanelor necesare si a textelor)
+Nița Razvan George: Design al interfetei (culori, fonturi, aranjarea in fereastra etc.)
+Căldărar Nicolae: Scheletul interfetei (adaugarea butoanelor necesare si a textelor)
 Comun: Functiile de conversie
 
 Research:
